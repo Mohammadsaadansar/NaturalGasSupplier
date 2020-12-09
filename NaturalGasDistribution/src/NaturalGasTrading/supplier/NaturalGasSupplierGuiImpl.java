@@ -86,7 +86,7 @@ rootPanel.add(titleTF, gridBagConstraints);
 //gridBagConstraints.insets = new Insets(5, 3, 0, 3);
 //rootPanel.add(energyTF, gridBagConstraints);
 
-l = new JLabel("Cost(¢/kWh):");
+l = new JLabel("Cost(¢/GJ):");
 l.setHorizontalAlignment(SwingConstants.LEFT);
 l.setMinimumSize(new Dimension(100, 20));
 l.setPreferredSize(new Dimension(100, 20));
